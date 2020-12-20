@@ -1,0 +1,14 @@
+ ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2020.12.16
+  Bugs:
+     - Fixed no file at icon path for sb-blue-algae-liquefaction
+  Changes:
+     - Threre is now a Changelog
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020.11.01
+  Changes: 
+     - Now supports version 1.0.0
+     - Has all Seablock Balance changes from Seablock 4.8
+---------------------------------------------------------------------------------------------------
